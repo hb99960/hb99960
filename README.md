@@ -5,9 +5,10 @@
 
 - 🔭 I’m currently working on [cryptoGuild](https://github.com/hb99960/cryptoGuild)
 
+- 👯 I’m also working on [UrbanCart](https://github.com/hb99960/UrbanCart)
+
 - 🌱 I’m currently learning **InfluxDB, Flux query language, Jenkins**
 
-- 👯 I’m currently working on **UrbanCart**
 
 - 👨‍💻 All of my projects are available at [https://hb99960.github.io/Portfolio/](https://hb99960.github.io/Portfolio/)
 
