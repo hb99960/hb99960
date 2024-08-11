@@ -7,9 +7,6 @@
 
 - 👯 I’m also working on [UrbanCart](https://github.com/hb99960/UrbanCart)
 
-- 🌱 I’m currently learning **InfluxDB, Flux query language, Jenkins**
-
-
 - 👨‍💻 All of my projects are available at [https://hb99960.github.io/Portfolio/](https://hb99960.github.io/Portfolio/)
 
 - 💬 Ask me about **Java, Spring Boot, Android**
