@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Harshit Batra</h1>
-<h3 align="center">Backend Developer </h3>
+<h1 align="center">Hi there, Glad to have you here!</h1>
+<p>This is where I showcase my professional and personal projects. Feel free to explore the repositories, starting with UrbanCart, an e-commerce application I developed. If you're interested in collaborating or creating something new together, I'd love to connect! Feel free to reach out via email.</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,postman,github,spring,react,mongodb,nodejs,androidstudio,git)](https://skillicons.dev)
 
