@@ -8,7 +8,7 @@ https://batra-ecom-1-0.onrender.com/swagger-ui/index.html (The server is taking 
 https://hb99960.github.io/Portfolio/
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,postman,github,spring,react,mongodb,nodejs,androidstudio,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,mysql,spring,react,mongodb,nodejs,androidstudio,aws)](https://skillicons.dev)
 
 
 
