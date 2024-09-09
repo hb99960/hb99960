@@ -3,7 +3,7 @@
 
 🎉 We Are Live! 🎉
 
-https://batra-ecom-1-0.onrender.com/swagger-ui/index.html (The server is taking a quick nap and will be back up in about 50 seconds. Please grab a coffee or take a deep breath while it wakes up. Your patience is like a superhero cape, making sure everything runs smoothly! 🚀 Thank you for hanging tight!)
+https://batra-ecom-1-0.onrender.com/swagger-ui/index.html 
 
 https://hb99960.github.io/Portfolio/
 
