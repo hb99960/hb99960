@@ -12,8 +12,3 @@ https://hb99960.github.io/Portfolio/
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hb99960&show_icons=true&locale=en&layout=compact" alt="hb99960" /></p>
-
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
