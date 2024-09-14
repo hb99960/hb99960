@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, Glad to have you here!</h1>
-<p>This is where I showcase my professional and personal projects. Feel free to explore the repositories, you can start with Pinned Repositories. If you're interested in collaborating or creating something new together, I'd love to connect! Feel free to reach out via email.</p>
+<p>This is where I showcase my professional and personal projects. Feel free to explore the repositories, you can start with Pinned Repositories. If you're interested in collaborating or creating something new together, I'd love to connect! Feel free to reach out via email. (LLM Project coming soon.)</p>
 
 🎉 We Are Live! 🎉
 
