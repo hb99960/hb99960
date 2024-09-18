@@ -3,7 +3,7 @@
 
 ### 🎉 We Are Live! 🎉
 Here are some of my active projects:
-- [UrbanCart API Documentation](https://batra-ecom-1-0.onrender.com/swagger-ui/index.html): Explore SwaggerUI for my e-commerce project.
+- [UrbanCart](https://batra-ecom-1-0.onrender.com/swagger-ui/index.html): Explore SwaggerUI for my e-commerce project.
 - [Portfolio](https://hb99960.github.io/Portfolio/): View my professional portfolio showcasing various projects and achievements.
 - [NEO Asteroids](https://hb99960.github.io/NEO-Asteroids/): Check out my project visualizing Near Earth Object statistics with interactive charts.
 
