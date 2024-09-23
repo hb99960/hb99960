@@ -8,7 +8,7 @@ Here are some of my active projects:
 - [NEO Asteroids](https://hb99960.github.io/NEO-Asteroids/): Check out my project visualizing Near Earth Object statistics with interactive charts.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,mysql,spring,react,mongodb,nodejs,expressjs,androidstudio,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,mysql,spring,react,mongodb,nodejs,expressjs,nestjs,androidstudio,aws)](https://skillicons.dev)
 
 
 
